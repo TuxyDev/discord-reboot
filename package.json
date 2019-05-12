@@ -1,0 +1,36 @@
+{
+  "name": "discord-reboot",
+  "version": "1.0.0",
+  "description": "A discord.js fork, with a built in webpanel",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.0",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuxyDev/discord-reboot.git"
+  },
+  "keywords": [
+    "Discord",
+    "Discord.JS",
+    "Webpanel",
+    "Websocket",
+    "Restfull",
+    "Rest",
+    "API"
+  ],
+  "author": "TuxyDev",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/TuxyDev/discord-reboot/issues"
+  },
+  "homepage": "https://github.com/TuxyDev/discord-reboot#readme"
+}
